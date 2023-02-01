@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3a3b5e7c0fa6d4282b49a1e6547c32, type: 3}
+  m_Name: WhiteDwarf
+  m_EditorClassIdentifier: 
+  presetName: White Dwarf
+  EffectNoiseScale: 4
+  EffectNoiseStrength: 0.5
+  NoiseScale: 8
+  NoiseFalloff: 4.25
+  Seed: 1
+  Color: {r: 0.5613108, g: 0.67449886, b: 0.9528302, a: 1}
+  Strength: 50
+  additions: {fileID: 11400000, guid: b785d7235b26c8940a8068368aac847d, type: 2}

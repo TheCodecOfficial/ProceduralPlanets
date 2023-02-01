@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f261428c04f3c5545a3e6ea32dd66ba4, type: 3}
+  m_Name: VenusPreset
+  m_EditorClassIdentifier: 
+  presetName: Venus
+  MainSeed: 1
+  PerlinScale: 0.5
+  RidgedScale: 1
+  UseRidgedOffset: 1
+  NoiseMix: 1
+  EffectNoiseScale: 2
+  EffectNoiseMix: 0.08
+  BumpStrength: 0.0005
+  MainGradient:
+    serializedVersion: 2
+    key0: {r: 0.95294124, g: 0.79215693, b: 0.42352945, a: 1}
+    key1: {r: 0.6862745, g: 0.40784317, b: 0.09411766, a: 1}
+    key2: {r: 0.3529412, g: 0.16470589, b: 0, a: 0}
+    key3: {r: 0.23529413, g: 0.10588236, b: 0.015686275, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 8867
+    ctime1: 26021
+    ctime2: 50693
+    ctime3: 53392
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 4
+    m_NumAlphaKeys: 2
+  CratersSeed: 4
+  CratersSize: 1
+  CraterStrength: 0
+  CratersBumpStrength: 1
+  CratersCoverage: 0.5
+  WaterLevel: -100
+  OceanColor: {r: 0, g: 0, b: 0, a: 1}
+  OceanSpecular: 0
+  PolesSeed: 0
+  NorthpoleSize: -1
+  SouthpoleSize: -1
+  IceColor: {r: 0, g: 0, b: 0, a: 1}
+  IceSpecular: 0
+  PolesNoiseScale: 0
+  PolesNoiseMix: 0
+  additions: {fileID: 11400000, guid: 0024e1bf3d85e1b41a49c8b0ba1a4452, type: 2}

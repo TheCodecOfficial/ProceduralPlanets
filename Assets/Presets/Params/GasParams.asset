@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84eacf9d3c4550a4fbdc89ede62ad66d, type: 3}
+  m_Name: GasParams
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: Main
+    type: 0
+    min: 0
+    max: 1
+    propertyName: 
+  - name: Gradient
+    type: 5
+    min: 0
+    max: 1
+    propertyName: MainGradient
+  - name: Bump Strength
+    type: 2
+    min: 0
+    max: 0.001
+    propertyName: BumpStrength
+  - name: Bands
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Bands Seed
+    type: 1
+    min: 0
+    max: 0
+    propertyName: BandsSeed
+  - name: Bands Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: BandsNoiseScale
+  - name: Bands Noise Mix
+    type: 2
+    min: 0
+    max: 1
+    propertyName: BandsNoiseMix
+  - name: Main Bands Frequency
+    type: 1
+    min: 0
+    max: 0
+    propertyName: MainBandsFrequency
+  - name: Main Bands Phase
+    type: 2
+    min: 0
+    max: 6.2831855
+    propertyName: MainBandsPhase
+  - name: Secondary Bands Frequency
+    type: 1
+    min: 0
+    max: 0
+    propertyName: SecondaryBandsFrequency
+  - name: Secondary Bands Phase
+    type: 2
+    min: 0
+    max: 6.2831855
+    propertyName: SecondaryBandsPhase
+  - name: Bands Ratio
+    type: 2
+    min: 0
+    max: 1
+    propertyName: BandsRatio
+  - name: Storms
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Storms Seed
+    type: 1
+    min: 0
+    max: 0
+    propertyName: StormsSeed
+  - name: Storm Size
+    type: 1
+    min: 0
+    max: 0
+    propertyName: StormSize
+  - name: Storm Falloff
+    type: 2
+    min: 0
+    max: 50
+    propertyName: StormFalloff
+  - name: Storm Strength
+    type: 1
+    min: 0
+    max: 0
+    propertyName: StormStrength
+  - name: Storm Coverage
+    type: 2
+    min: -1
+    max: 2
+    propertyName: StormCoverage

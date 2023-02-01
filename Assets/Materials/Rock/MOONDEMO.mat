@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MOONDEMO
+  m_Shader: {fileID: -6465566751694194690, guid: f4e34a2321e6ca54fb2414af5e116a27,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpStrength: 0.0025
+    - _CraterBumpStrength: 1
+    - _CraterStrength: 0
+    - _CratersBumpStrength: 1
+    - _CratersCoverage: 0.5
+    - _CratersSeed: 4.57
+    - _CratersSize: 1.5
+    - _EffectNoiseMix: 0.22
+    - _GradientPosition1: 0
+    - _GradientPosition2: 0.09117266
+    - _GradientPosition3: 0.6176547
+    - _GradientPosition4: 1
+    - _IceSpecular: 0
+    - _MainSeed: 2.5
+    - _NoiseMix: 0
+    - _NorthpoleSize: -1
+    - _OceanSpecular: 0.6
+    - _PerlinScale: 1.2
+    - _PolesNoiseMix: 0.1
+    - _PolesSeed: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RidgedScale: 2
+    - _SouthpoleSize: -1
+    - _UseRidgedOffset: 0
+    - _WaterLevel: -100
+    m_Colors:
+    - _EffectNoiseScale: {r: 4, g: 4, b: 4, a: 0}
+    - _GradientColor1: {r: 0.69671154, g: 0.69671154, b: 0.69671154, a: 1}
+    - _GradientColor2: {r: 0.5411739, g: 0.5411739, b: 0.5411739, a: 1}
+    - _GradientColor3: {r: 0.32058823, g: 0.32058823, b: 0.32058823, a: 1}
+    - _GradientColor4: {r: 0.14388752, g: 0.14388752, b: 0.14388752, a: 1}
+    - _IceColor: {r: 0.015686272, g: 0.69803923, b: 0.58538836, a: 1}
+    - _OceanColor: {r: 0, g: 0.46575332, b: 1, a: 1}
+    - _PolesNoiseScale: {r: 1, g: 2, b: 8, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &2889358029845357569
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

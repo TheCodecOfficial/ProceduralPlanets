@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b81fa3d0e452714cb98724899e1d790, type: 3}
+  m_Name: JupiterPreset
+  m_EditorClassIdentifier: 
+  presetName: Jupiter
+  MainGradient:
+    serializedVersion: 2
+    key0: {r: 0.5921569, g: 0.45098042, b: 0.31764707, a: 1}
+    key1: {r: 0.6117647, g: 0.46274513, b: 0.32156864, a: 1}
+    key2: {r: 0.6313726, g: 0.5137255, b: 0.40784317, a: 0}
+    key3: {r: 0.65882355, g: 0.60784316, b: 0.5764706, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 14842
+    ctime2: 31997
+    ctime3: 58211
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 4
+    m_NumAlphaKeys: 2
+  BumpStrength: 0.0005
+  TurbulenceSeed: 0
+  TurbulenceScale: 2
+  TurbulenceStrength: 0.05
+  BandsSeed: 0
+  BandsNoiseScale: 4
+  BandsNoiseMix: 0.2
+  MainBandsFrequency: 4
+  MainBandsPhase: 0
+  SecondaryBandsFrequency: 7
+  SecondaryBandsPhase: 1.28
+  BandsRatio: 0.5
+  StormsSeed: 53
+  StormSize: 0.7
+  StormFalloff: 6
+  StormStrength: 1.5
+  StormCoverage: 1
+  additions: {fileID: 11400000, guid: 681f62c1281f0034a96d55a2c97612bb, type: 2}

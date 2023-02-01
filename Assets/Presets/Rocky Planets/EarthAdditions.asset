@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1b3252dd8958ce449e77c28b008b906, type: 3}
+  m_Name: EarthAdditions
+  m_EditorClassIdentifier: 
+  presetName: Earth Additions
+  EnableAtmosphere: 1
+  AtmosphereDensity: 2
+  EdgeIntensity: 0.25
+  AtmosphereColor: {r: 0.5529412, g: 0.9333334, b: 0.98823535, a: 1}
+  CloudCoverage: 2.25
+  CloudDensity: 0.9
+  EnableRings: 0
+  RingVisibility: 0
+  RingColor: {r: 0, g: 0, b: 0, a: 1}

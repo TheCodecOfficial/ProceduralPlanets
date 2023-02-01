@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84eacf9d3c4550a4fbdc89ede62ad66d, type: 3}
+  m_Name: StarParams
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: Main
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Seed
+    type: 1
+    min: 0
+    max: 0
+    propertyName: Seed
+  - name: Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: NoiseScale
+  - name: Noise Falloff
+    type: 2
+    min: 1
+    max: 10
+    propertyName: NoiseFalloff
+  - name: Effect Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: EffectNoiseScale
+  - name: Effect Noise Mix
+    type: 2
+    min: 0
+    max: 1
+    propertyName: EffectNoiseStrength
+  - name: Color
+    type: 4
+    min: 0
+    max: 0
+    propertyName: Color
+  - name: Intensity
+    type: 1
+    min: 0
+    max: 0
+    propertyName: Strength

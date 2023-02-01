@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84eacf9d3c4550a4fbdc89ede62ad66d, type: 3}
+  m_Name: RockyParams
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: Main
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Main Seed
+    type: 1
+    min: 0
+    max: 0
+    propertyName: MainSeed
+  - name: Perlin Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: PerlinScale
+  - name: Ridged Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: RidgedScale
+  - name: Use Ridged Distortion
+    type: 3
+    min: 0
+    max: 0
+    propertyName: UseRidgedOffset
+  - name: Noise Mix
+    type: 2
+    min: 0
+    max: 1
+    propertyName: NoiseMix
+  - name: Distortion Noise Scale
+    type: 1
+    min: 0
+    max: 0
+    propertyName: EffectNoiseScale
+  - name: Distortion Noise Mix
+    type: 2
+    min: 0
+    max: 1
+    propertyName: EffectNoiseMix
+  - name: Bump Strength
+    type: 2
+    min: 0
+    max: 0.01
+    propertyName: BumpStrength
+  - name: Main Gradient
+    type: 5
+    min: 0
+    max: 0
+    propertyName: MainGradient
+  - name: Craters
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Crater Seed
+    type: 1
+    min: 0
+    max: 0
+    propertyName: CratersSeed
+  - name: Crater Size
+    type: 1
+    min: 0
+    max: 0
+    propertyName: CratersSize
+  - name: Crater Strength
+    type: 1
+    min: 0
+    max: 0
+    propertyName: CraterStrength
+  - name: Crater Bump Strength
+    type: 1
+    min: 0
+    max: 0
+    propertyName: CratersBumpStrength
+  - name: Crater Coverage
+    type: 2
+    min: 0
+    max: 1
+    propertyName: CratersCoverage
+  - name: Ocean
+    type: 0
+    min: 0
+    max: 0
+    propertyName: 
+  - name: Water Level
+    type: 1
+    min: 0
+    max: 0
+    propertyName: WaterLevel
+  - name: Water Color
+    type: 4
+    min: 0
+    max: 0
+    propertyName: OceanColor
+  - name: Water Specular
+    type: 2
+    min: 0
+    max: 1
+    propertyName: OceanSpecular
+  - name: Poles
+    type: 0
+    min: 0
+    max: 1
+    propertyName: 
+  - name: Pole Seed
+    type: 1
+    min: 0
+    max: 1
+    propertyName: PolesSeed
+  - name: North Pole Size
+    type: 1
+    min: 0
+    max: 1
+    propertyName: NorthpoleSize
+  - name: South Pole Size
+    type: 1
+    min: 0
+    max: 1
+    propertyName: SouthpoleSize
+  - name: Ice Color
+    type: 4
+    min: 0
+    max: 1
+    propertyName: IceColor
+  - name: Ice Specular
+    type: 2
+    min: 0
+    max: 1
+    propertyName: IceSpecular
+  - name: Pole Noise Scale
+    type: 1
+    min: 0
+    max: 1
+    propertyName: PolesNoiseScale
+  - name: Pole Noise Mix
+    type: 2
+    min: 0
+    max: 1
+    propertyName: PolesNoiseMix
