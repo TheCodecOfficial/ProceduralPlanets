@@ -2,7 +2,7 @@
 
 **Unity Version: 2021.3.16f1**
 
-The project contains a scene with a bunch of example planets, stars etc. and the editor scene found at https://thecodec.itch.io/procedural-planet-generation-playground. Shaders & shadergraphs are found `in Assets/Shaders/`.
+The project contains a scene with a bunch of example planets, stars etc. and the editor scene found at https://thecodec.itch.io/procedural-planet-generation-playground. Shaders & shadergraphs are found in `Assets/Shaders/`.
 
 #### Resources used:
 
